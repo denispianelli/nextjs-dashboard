@@ -9,8 +9,8 @@
 - [x] Chapitre 7
 - [x] Chapitre 8
 - [x] Chapitre 9
-- [ ] Chapitre 10
-- [ ] Chapitre 11
+- [x] Chapitre 10
+- [x] Chapitre 11
 - [ ] Chapitre 12
 - [ ] Chapitre 13
 - [ ] Chapitre 14
