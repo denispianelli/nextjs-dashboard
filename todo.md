@@ -5,7 +5,7 @@
 - [x] Chapitre 3
 - [x] Chapitre 4
 - [x] Chapitre 5
-- [ ] Chapitre 6
+- [x] Chapitre 6
 - [ ] Chapitre 7
 - [ ] Chapitre 8
 - [ ] Chapitre 9
