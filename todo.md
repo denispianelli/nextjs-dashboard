@@ -15,4 +15,4 @@
 - [x] Chapitre 13
 - [x] Chapitre 14
 - [x] Chapitre 15
-- [ ] Chapitre 16
+- [x] Chapitre 16
